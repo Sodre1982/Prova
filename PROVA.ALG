@@ -1,7 +1,7 @@
 Algoritmo "semnome"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Disciplina  :  SEGUE O LÍDER
 // Professor   : Felippe Nascimento
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : TIQUINHO SOARES
 // Autor(a)    : Mau mauzin, Sodrezin, Marcin e Eltin
 // Data atual  : 31/07/2023
 
@@ -31,5 +31,7 @@ senao
      escreval("Os números são iguais")
 fimse
 fimse
+fimse
+
 
 Fimalgoritmo
